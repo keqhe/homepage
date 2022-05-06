@@ -7,13 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Keqiang He"
-title_separator          : "-"
 name                     : &name "Keqiang He"
 description              : &description "Software Engineer & Researcher"
 url                      : https://keqiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "keqiang.github.io"
+repository               : "keqhe.github.io/homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +80,10 @@ analytics:
 author:
   name             : "Keqiang He"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineer & Researcher"
   googlescholar    : "https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en"
   email            : "first_name@google.com"  
-  linkedin         : "https://www.linkedin.com/in/keqiang-he/"
+  linkedin         : "keqiang-he/"
 
 
 # Reading Files
