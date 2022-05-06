@@ -7,6 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
+title                    : "Keqiang He"
+title_separator          : "-"
 name                     : &name "Keqiang He"
 description              : &description "Software Engineer & Researcher"
 url                      : https://keqiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
